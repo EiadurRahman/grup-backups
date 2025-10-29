@@ -1,0 +1,2 @@
+Oct 29 12:38:05 ubuntu kernel: [ 2692.718824] 1915 0000:00:02.0: [drm] *ERROR* Link Training Unsuccessful Oct 29 12:38:05 ubuntu kernel: [2693.023518] 1915 0000:00:02.0: [drm] *ERROR* Link Training Unsuccessful
+Oct 29 12:38:17 ubuntu kernel: [ 2704.731122] 1915 0000:00:02.0: [drm] *ERROR* [CONNECTOR:111: DP-1][ENCODER:110:DDI C/PHY C][DPRX] Failed to g et link status
